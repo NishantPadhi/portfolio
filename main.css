@@ -37,10 +37,10 @@ body
 {
  #About
  {
- 	margin-top: -360px;
+ 	margin-top: -330px;
  }
 }
-@media only screen and (max-width: 900px) 
+@media only screen and (min-width: 600px) and (max-width: 900px) 
 {
 	#About
 	{
